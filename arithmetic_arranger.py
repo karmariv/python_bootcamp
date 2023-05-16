@@ -10,7 +10,7 @@ line3 = ''
 test = ["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]
 
 
-#get the size of the array 
+#get the size of the array dddsfdfsdfsd
 problems = len(test)
 
 #Abort if there are more than 5 problems
